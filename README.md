@@ -24,9 +24,11 @@
             - Int idade
             - Boolean Matricula 
     - Nota:
+      - Atributos:
         - String nome_disciplina
         - Double nota
     - Endereco:
+      - Atributos:
         - String rua, cidade, estado e cep
         - Int numero
 - Crie as classes DAO para as Classes Models
